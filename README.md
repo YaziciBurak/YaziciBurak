@@ -58,11 +58,14 @@
   <a href="https://www.linkedin.com/in/burak-yazici12/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/burak2840" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="25" alt="hackerrank logo"  />
+  <a href="https://www.freecodecamp.org/Yazici" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=freeCodeCamp&logo=freecodecamp&label=&color=0A0A23&logoColor=white&labelColor=&style=flat" height="25" alt="freeCodeCamp logo" />
   </a>
   <a href="mailto:@burak2840@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/burak2840" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="25" alt="hackerrank logo"  />
   </a>
 </div>
 
