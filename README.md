@@ -3,7 +3,7 @@
 ###
 
 
-<h3 align="left">Hi, I'm Burak Yazıcı, a passionate software developer with a strong interest in technology. I'm always eager to learn and continuously improve my skills, exploring new tools and frameworks to stay ahead in the ever-evolving tech landscape.</h3>
+<h3 align="left">Hi, I'm Burak Yazıcı, a software developer passionate about technology. I enjoy learning new things and building with different tools and frameworks.</h3>
 
 <br clear="both">
 
